@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="potensi">Potensi</string>
+    <string name="potensi_value">Potensi Value</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="tanggal_value">Tanggal Value</string>
+    <string name="jam">Jam</string>
+    <string name="jam_value">Jam Value</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="coordinates_value">Lintang : %1$s , Bujur : %2$s</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="magnitude_value">Magnitude Value</string>
+    <string name="kedalaman">Kedalaman</string>
+    <string name="kedalaman_value">Kedalaman Value</string>
+    <string name="wilayah1">Wilayah1</string>
+    <string name="wilayah1_value">Wilayah1 Value</string>
+    <string name="wilayah2">Wilayah2</string>
+    <string name="wilayah2_value">Wilayah2 Value</string>
+    <string name="wilayah3">Wilayah3</string>
+    <string name="wilayah3_value">Wilayah3 Value</string>
+    <string name="wilayah4">Wilayah4</string>
+    <string name="wilayah4_value">Wilayah4 Value</string>
+    <string name="wilayah5">Wilayah5</string>
+    <string name="wilayah5_value">Wilayah5 Value</string>
 </resources>
